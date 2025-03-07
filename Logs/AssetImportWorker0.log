@@ -887,3 +887,35 @@ Memory consumption went from 150.9 MB to 146.4 MB.
 Total: 13.456500 ms (FindLiveObjects: 0.915000 ms CreateObjectMapping: 1.951500 ms MarkObjects: 7.666000 ms  DeleteObjects: 2.922900 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 2330.495838 seconds.
+  path: Assets/Paletas/1.png
+  artifactKey: Guid(5ecffe5c61725a247a24fac393366fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paletas/1.png using Guid(5ecffe5c61725a247a24fac393366fbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f233be6f12f19853f69326dcae03bab') in 0.1243536 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.947336 seconds.
+  path: Assets/Paletas/2.png
+  artifactKey: Guid(e4a03da86560b8b4780d922dd3651bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paletas/2.png using Guid(e4a03da86560b8b4780d922dd3651bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3d2b4d30ad02e6e3b82c3f40ae7344b') in 0.0139207 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.632556 seconds.
+  path: Assets/Paletas/3.png
+  artifactKey: Guid(81e1e2a4c27b9ae42b08d4d5a2dff89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paletas/3.png using Guid(81e1e2a4c27b9ae42b08d4d5a2dff89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '999027bd8d6299a48818a151bc54a7e6') in 0.0141653 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 899.814433 seconds.
+  path: Assets/Paletas/4.png
+  artifactKey: Guid(d7d494b86b3d9824a86d53ef5172727a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paletas/4.png using Guid(d7d494b86b3d9824a86d53ef5172727a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f773c606abd4e4ae620d1cb56898555') in 0.0178108 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+

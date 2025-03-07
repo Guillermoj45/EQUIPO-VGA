@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: 5beb0532eb265c44589d77581a9de402
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5713583773186886481
+    second: intento de animacion-Sheet-Sheet_0
+  - first:
+      213: -6560065143711273814
+    second: intento de animacion-Sheet-Sheet_1
+  - first:
+      213: -7348675024977699258
+    second: intento de animacion-Sheet-Sheet_2
+  - first:
+      213: 2611786552445989779
+    second: intento de animacion-Sheet-Sheet_3
+  - first:
+      213: 1827556064400845245
+    second: intento de animacion-Sheet-Sheet_4
+  - first:
+      213: -1692316602581814416
+    second: intento de animacion-Sheet-Sheet_5
+  - first:
+      213: -7557115869095696001
+    second: intento de animacion-Sheet-Sheet_6
+  - first:
+      213: 4467598996952089178
+    second: intento de animacion-Sheet-Sheet_7
+  - first:
+      213: 2418690905513047182
+    second: intento de animacion-Sheet-Sheet_8
+  - first:
+      213: -213178725126631906
+    second: intento de animacion-Sheet-Sheet_9
+  - first:
+      213: 8779937399546280330
+    second: intento de animacion-Sheet-Sheet_10
+  - first:
+      213: -4973007404010156058
+    second: intento de animacion-Sheet-Sheet_11
+  - first:
+      213: -6081714996461379658
+    second: intento de animacion-Sheet-Sheet_12
+  - first:
+      213: 1568962586134347801
+    second: intento de animacion-Sheet-Sheet_13
+  - first:
+      213: 7401825318446481076
+    second: intento de animacion-Sheet-Sheet_14
+  - first:
+      213: -4352435638964758955
+    second: intento de animacion-Sheet-Sheet_15
+  - first:
+      213: -5526721532073947682
+    second: intento de animacion-Sheet-Sheet_16
+  - first:
+      213: 8402632694576359128
+    second: intento de animacion-Sheet-Sheet_17
+  - first:
+      213: 5743370137549069503
+    second: intento de animacion-Sheet-Sheet_18
+  - first:
+      213: 9138605225091587169
+    second: intento de animacion-Sheet-Sheet_19
+  - first:
+      213: -3562974654452163200
+    second: intento de animacion-Sheet-Sheet_20
+  - first:
+      213: -3289933629541299474
+    second: intento de animacion-Sheet-Sheet_21
+  - first:
+      213: -5612219332914135246
+    second: intento de animacion-Sheet-Sheet_22
+  - first:
+      213: -8871068858958968518
+    second: intento de animacion-Sheet-Sheet_23
+  - first:
+      213: 6981517956774914240
+    second: intento de animacion-Sheet-Sheet_24
+  - first:
+      213: -4037458610534042135
+    second: intento de animacion-Sheet-Sheet_25
+  - first:
+      213: -5611431504833913161
+    second: intento de animacion-Sheet-Sheet_26
+  - first:
+      213: 5585194157618622418
+    second: intento de animacion-Sheet-Sheet_27
+  - first:
+      213: -8603602735887789333
+    second: intento de animacion-Sheet-Sheet_28
+  - first:
+      213: -8623268988717040897
+    second: intento de animacion-Sheet-Sheet_29
+  - first:
+      213: -7283368313036174184
+    second: intento de animacion-Sheet-Sheet_30
+  - first:
+      213: -7010844020673752378
+    second: intento de animacion-Sheet-Sheet_31
+  - first:
+      213: 7271529384611013787
+    second: intento de animacion-Sheet-Sheet_32
+  - first:
+      213: 7583831634501685673
+    second: intento de animacion-Sheet-Sheet_33
+  - first:
+      213: -6700253852275809585
+    second: intento de animacion-Sheet-Sheet_34
+  - first:
+      213: -8139845081554431073
+    second: intento de animacion-Sheet-Sheet_35
+  - first:
+      213: 5683591047130438192
+    second: intento de animacion-Sheet-Sheet_36
+  - first:
+      213: -7372295122228443986
+    second: intento de animacion-Sheet-Sheet_37
+  - first:
+      213: 2858287535225745624
+    second: intento de animacion-Sheet-Sheet_38
+  - first:
+      213: 3755459389238825994
+    second: intento de animacion-Sheet-Sheet_39
+  - first:
+      213: -8377087946499590033
+    second: intento de animacion-Sheet-Sheet_40
+  - first:
+      213: 5377262085315663409
+    second: intento de animacion-Sheet-Sheet_41
+  - first:
+      213: 3297388376677720858
+    second: intento de animacion-Sheet-Sheet_42
+  - first:
+      213: -3067966773530475369
+    second: intento de animacion-Sheet-Sheet_43
+  - first:
+      213: 7045557622139110965
+    second: intento de animacion-Sheet-Sheet_44
+  - first:
+      213: 6411047043005987502
+    second: intento de animacion-Sheet-Sheet_45
+  - first:
+      213: 2344377201683787561
+    second: intento de animacion-Sheet-Sheet_46
+  - first:
+      213: -3092354007482809633
+    second: intento de animacion-Sheet-Sheet_47
+  - first:
+      213: -1061822815396042586
+    second: intento de animacion-Sheet-Sheet_48
+  - first:
+      213: 4296214814015689524
+    second: intento de animacion-Sheet-Sheet_49
+  - first:
+      213: -2485817283381179368
+    second: intento de animacion-Sheet-Sheet_50
+  - first:
+      213: -7248921848744669228
+    second: intento de animacion-Sheet-Sheet_51
+  - first:
+      213: -3168720641311087053
+    second: intento de animacion-Sheet-Sheet_52
+  - first:
+      213: 3487677461685132587
+    second: intento de animacion-Sheet-Sheet_53
+  - first:
+      213: 3112464301229853125
+    second: intento de animacion-Sheet-Sheet_54
+  - first:
+      213: 6644430341130612729
+    second: intento de animacion-Sheet-Sheet_55
+  - first:
+      213: -4780460533328330994
+    second: intento de animacion-Sheet-Sheet_56
+  - first:
+      213: 5552122321088494984
+    second: intento de animacion-Sheet-Sheet_57
+  - first:
+      213: 5447208238844674732
+    second: intento de animacion-Sheet-Sheet_58
+  - first:
+      213: -231766240198193630
+    second: intento de animacion-Sheet-Sheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa472c484d545b0b0800000000000000
+      internalID: -5713583773186886481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 21
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaceaad2287f5f4a0800000000000000
+      internalID: -6560065143711273814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 21
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e5b6eeff2440a90800000000000000
+      internalID: -7348675024977699258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 21
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3937fa7180eee3420800000000000000
+      internalID: 2611786552445989779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 21
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db929b9ce88cc5910800000000000000
+      internalID: 1827556064400845245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 21
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0737d97240fa388e0800000000000000
+      internalID: -1692316602581814416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 21
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f796518082bbf1790800000000000000
+      internalID: -7557115869095696001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 21
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52883c0e99100e30800000000000000
+      internalID: 4467598996952089178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 21
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84b294509ae09120800000000000000
+      internalID: 2418690905513047182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 21
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e08273413aa0df0800000000000000
+      internalID: -213178725126631906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 21
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a897f1afb8a98d970800000000000000
+      internalID: 8779937399546280330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 21
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef469a3d145cfab0800000000000000
+      internalID: -4973007404010156058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 21
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfd0cade68699ba0800000000000000
+      internalID: -6081714996461379658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 21
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9108a6cc82316c510800000000000000
+      internalID: 1568962586134347801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 21
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bebe7b19e098b660800000000000000
+      internalID: 7401825318446481076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 21
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55651c7b8da0993c0800000000000000
+      internalID: -4352435638964758955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 14
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddca346c042d43b0800000000000000
+      internalID: -5526721532073947682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 14
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6ae4aaae52c9470800000000000000
+      internalID: 8402632694576359128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd23ed5bc84bf40800000000000000
+      internalID: 5743370137549069503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cdc18a809d2de70800000000000000
+      internalID: 9138605225091587169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d98a1ed65cd8ec0800000000000000
+      internalID: -3562974654452163200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea44947bcec752d0800000000000000
+      internalID: -3289933629541299474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fb21460446d12b0800000000000000
+      internalID: -5612219332914135246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3988bbafd1a3e480800000000000000
+      internalID: -8871068858958968518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8649e879553e060800000000000000
+      internalID: 6981517956774914240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5b6cbf8c018f7c0800000000000000
+      internalID: -4037458610534042135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be50f8e6c03022b0800000000000000
+      internalID: -5611431504833913161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfe176ae78928d40800000000000000
+      internalID: 5585194157618622418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be254d245ecd99880800000000000000
+      internalID: -8603602735887789333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaf0e4fa8ef35880800000000000000
+      internalID: -8623268988717040897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c8425bb174cea90800000000000000
+      internalID: -7283368313036174184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2d11c128a74be90800000000000000
+      internalID: -7010844020673752378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 22
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ed87f279a9e460800000000000000
+      internalID: 7271529384611013787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1d7d2d0be2f3960800000000000000
+      internalID: 7583831634501685673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 22
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2682eee9ae303a0800000000000000
+      internalID: -6700253852275809585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93dc3b6606790f80800000000000000
+      internalID: -8139845081554431073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 22
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03adcc4c1fb20ee40800000000000000
+      internalID: 5683591047130438192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea48a3c75a850b990800000000000000
+      internalID: -7372295122228443986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 22
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0be039e5daaa720800000000000000
+      internalID: 2858287535225745624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 36
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a045cffca621e1430800000000000000
+      internalID: 3755459389238825994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 22
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f687fa875ea9ebb80800000000000000
+      internalID: -8377087946499590033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 37
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1369a6b606fdf9a40800000000000000
+      internalID: 5377262085315663409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 38
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13a06e124da2cd20800000000000000
+      internalID: 3297388376677720858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 38
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794c30969746c65d0800000000000000
+      internalID: -3067966773530475369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 38
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c5201459d6c160800000000000000
+      internalID: 7045557622139110965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 22
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaab0b4815d98f850800000000000000
+      internalID: 6411047043005987502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 39
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe2e5d4a6e88020800000000000000
+      internalID: 2344377201683787561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 39
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24b380a60c515d0800000000000000
+      internalID: -3092354007482809633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 22
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8e9e176c5a341f0800000000000000
+      internalID: -1061822815396042586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 22
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4331d2c6c983f9b30800000000000000
+      internalID: 4296214814015689524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 22
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cc987e95a908dd0800000000000000
+      internalID: -2485817283381179368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 22
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df81092cf7a66b90800000000000000
+      internalID: -7248921848744669228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 31
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33664368d517604d0800000000000000
+      internalID: -3168720641311087053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 22
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dd0e24c28b66030800000000000000
+      internalID: 3487677461685132587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 22
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9c3ea9ac1b13b20800000000000000
+      internalID: 3112464301229853125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 22
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffeae90132c53c50800000000000000
+      internalID: 6644430341130612729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 22
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fb030197468adb0800000000000000
+      internalID: -4780460533328330994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 22
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d3ff9a5d91d0d40800000000000000
+      internalID: 5552122321088494984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 22
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca20bed580f589b40800000000000000
+      internalID: 5447208238844674732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento de animacion-Sheet-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 22
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e0f0e15d998ccf0800000000000000
+      internalID: -231766240198193630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      intento de animacion-Sheet-Sheet_0: -5713583773186886481
+      intento de animacion-Sheet-Sheet_1: -6560065143711273814
+      intento de animacion-Sheet-Sheet_10: 8779937399546280330
+      intento de animacion-Sheet-Sheet_11: -4973007404010156058
+      intento de animacion-Sheet-Sheet_12: -6081714996461379658
+      intento de animacion-Sheet-Sheet_13: 1568962586134347801
+      intento de animacion-Sheet-Sheet_14: 7401825318446481076
+      intento de animacion-Sheet-Sheet_15: -4352435638964758955
+      intento de animacion-Sheet-Sheet_16: -5526721532073947682
+      intento de animacion-Sheet-Sheet_17: 8402632694576359128
+      intento de animacion-Sheet-Sheet_18: 5743370137549069503
+      intento de animacion-Sheet-Sheet_19: 9138605225091587169
+      intento de animacion-Sheet-Sheet_2: -7348675024977699258
+      intento de animacion-Sheet-Sheet_20: -3562974654452163200
+      intento de animacion-Sheet-Sheet_21: -3289933629541299474
+      intento de animacion-Sheet-Sheet_22: -5612219332914135246
+      intento de animacion-Sheet-Sheet_23: -8871068858958968518
+      intento de animacion-Sheet-Sheet_24: 6981517956774914240
+      intento de animacion-Sheet-Sheet_25: -4037458610534042135
+      intento de animacion-Sheet-Sheet_26: -5611431504833913161
+      intento de animacion-Sheet-Sheet_27: 5585194157618622418
+      intento de animacion-Sheet-Sheet_28: -8603602735887789333
+      intento de animacion-Sheet-Sheet_29: -8623268988717040897
+      intento de animacion-Sheet-Sheet_3: 2611786552445989779
+      intento de animacion-Sheet-Sheet_30: -7283368313036174184
+      intento de animacion-Sheet-Sheet_31: -7010844020673752378
+      intento de animacion-Sheet-Sheet_32: 7271529384611013787
+      intento de animacion-Sheet-Sheet_33: 7583831634501685673
+      intento de animacion-Sheet-Sheet_34: -6700253852275809585
+      intento de animacion-Sheet-Sheet_35: -8139845081554431073
+      intento de animacion-Sheet-Sheet_36: 5683591047130438192
+      intento de animacion-Sheet-Sheet_37: -7372295122228443986
+      intento de animacion-Sheet-Sheet_38: 2858287535225745624
+      intento de animacion-Sheet-Sheet_39: 3755459389238825994
+      intento de animacion-Sheet-Sheet_4: 1827556064400845245
+      intento de animacion-Sheet-Sheet_40: -8377087946499590033
+      intento de animacion-Sheet-Sheet_41: 5377262085315663409
+      intento de animacion-Sheet-Sheet_42: 3297388376677720858
+      intento de animacion-Sheet-Sheet_43: -3067966773530475369
+      intento de animacion-Sheet-Sheet_44: 7045557622139110965
+      intento de animacion-Sheet-Sheet_45: 6411047043005987502
+      intento de animacion-Sheet-Sheet_46: 2344377201683787561
+      intento de animacion-Sheet-Sheet_47: -3092354007482809633
+      intento de animacion-Sheet-Sheet_48: -1061822815396042586
+      intento de animacion-Sheet-Sheet_49: 4296214814015689524
+      intento de animacion-Sheet-Sheet_5: -1692316602581814416
+      intento de animacion-Sheet-Sheet_50: -2485817283381179368
+      intento de animacion-Sheet-Sheet_51: -7248921848744669228
+      intento de animacion-Sheet-Sheet_52: -3168720641311087053
+      intento de animacion-Sheet-Sheet_53: 3487677461685132587
+      intento de animacion-Sheet-Sheet_54: 3112464301229853125
+      intento de animacion-Sheet-Sheet_55: 6644430341130612729
+      intento de animacion-Sheet-Sheet_56: -4780460533328330994
+      intento de animacion-Sheet-Sheet_57: 5552122321088494984
+      intento de animacion-Sheet-Sheet_58: 5447208238844674732
+      intento de animacion-Sheet-Sheet_59: -231766240198193630
+      intento de animacion-Sheet-Sheet_6: -7557115869095696001
+      intento de animacion-Sheet-Sheet_7: 4467598996952089178
+      intento de animacion-Sheet-Sheet_8: 2418690905513047182
+      intento de animacion-Sheet-Sheet_9: -213178725126631906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

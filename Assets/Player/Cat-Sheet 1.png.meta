@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 4a07ba56aedeea6439a354e79899632d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3924560902933134543
+    second: Cat-Sheet 1_0
+  - first:
+      213: -2607307083963760207
+    second: Cat-Sheet 1_1
+  - first:
+      213: -2639212193689537533
+    second: Cat-Sheet 1_2
+  - first:
+      213: 6831822833434501257
+    second: Cat-Sheet 1_3
+  - first:
+      213: 4362982465584748666
+    second: Cat-Sheet 1_4
+  - first:
+      213: -7372921007189463196
+    second: Cat-Sheet 1_5
+  - first:
+      213: 7004196055670483007
+    second: Cat-Sheet 1_6
+  - first:
+      213: 7692056747346177434
+    second: Cat-Sheet 1_7
+  - first:
+      213: 1562879387142246344
+    second: Cat-Sheet 1_8
+  - first:
+      213: -2714206274823124887
+    second: Cat-Sheet 1_9
+  - first:
+      213: 2021464159521250670
+    second: Cat-Sheet 1_10
+  - first:
+      213: -4947715163380486887
+    second: Cat-Sheet 1_11
+  - first:
+      213: 7276703362734567717
+    second: Cat-Sheet 1_12
+  - first:
+      213: -4995050577019160118
+    second: Cat-Sheet 1_13
+  - first:
+      213: 571765030265005739
+    second: Cat-Sheet 1_14
+  - first:
+      213: 7127710831253324464
+    second: Cat-Sheet 1_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cat-Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1599
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc37b61957d67630800000000000000
+      internalID: 3924560902933134543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1599
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b10bff650cf0dbd0800000000000000
+      internalID: -2607307083963760207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1599
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30471443e72af5bd0800000000000000
+      internalID: -2639212193689537533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1599
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9802443aba28fce50800000000000000
+      internalID: 6831822833434501257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1599
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78df66bf6d6c8c30800000000000000
+      internalID: 4362982465584748666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1599
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fe479486f1ea990800000000000000
+      internalID: -7372921007189463196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1599
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f386e6be337e33160800000000000000
+      internalID: 7004196055670483007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1599
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d27b18bdcafba60800000000000000
+      internalID: 7692056747346177434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1567
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfc469a58670b510800000000000000
+      internalID: 1562879387142246344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1567
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968080606c3355ad0800000000000000
+      internalID: -2714206274823124887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1567
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d927261fead0c10800000000000000
+      internalID: 2021464159521250670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1567
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d64e4e54f265bb0800000000000000
+      internalID: -4947715163380486887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1567
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5213faf972b0cf460800000000000000
+      internalID: 7276703362734567717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1567
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9b9a117f30eaab0800000000000000
+      internalID: -4995050577019160118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1567
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6afe304415fe700800000000000000
+      internalID: 571765030265005739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat-Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1567
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b20f8e9c37bae260800000000000000
+      internalID: 7127710831253324464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cat-Sheet 1_0: 3924560902933134543
+      Cat-Sheet 1_1: -2607307083963760207
+      Cat-Sheet 1_10: 2021464159521250670
+      Cat-Sheet 1_11: -4947715163380486887
+      Cat-Sheet 1_12: 7276703362734567717
+      Cat-Sheet 1_13: -4995050577019160118
+      Cat-Sheet 1_14: 571765030265005739
+      Cat-Sheet 1_15: 7127710831253324464
+      Cat-Sheet 1_2: -2639212193689537533
+      Cat-Sheet 1_3: 6831822833434501257
+      Cat-Sheet 1_4: 4362982465584748666
+      Cat-Sheet 1_5: -7372921007189463196
+      Cat-Sheet 1_6: 7004196055670483007
+      Cat-Sheet 1_7: 7692056747346177434
+      Cat-Sheet 1_8: 1562879387142246344
+      Cat-Sheet 1_9: -2714206274823124887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
